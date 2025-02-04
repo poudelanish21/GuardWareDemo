@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GuardWareDemo", "GuardWareDemo.vcxproj", "{48E04FE8-BDA9-448C-8B03-786972ECA38A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mGuardWareDemoCrypt", "..\mGuardWareDemoCrypt\mGuardWareDemoCrypt.vcxproj", "{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{48E04FE8-BDA9-448C-8B03-786972ECA38A}.Release|x64.Build.0 = Release|x64
 		{48E04FE8-BDA9-448C-8B03-786972ECA38A}.Release|x86.ActiveCfg = Release|Win32
 		{48E04FE8-BDA9-448C-8B03-786972ECA38A}.Release|x86.Build.0 = Release|Win32
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Debug|x64.ActiveCfg = Debug|x64
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Debug|x64.Build.0 = Debug|x64
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Debug|x86.Build.0 = Debug|Win32
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Release|x64.ActiveCfg = Release|x64
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Release|x64.Build.0 = Release|x64
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Release|x86.ActiveCfg = Release|Win32
+		{FCA32E7F-0236-49F6-ABE8-F9F7D3CE4A09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
